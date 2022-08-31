@@ -9,8 +9,11 @@ Please note that anything in `{{}}` is a concept that warrants further decision.
 ## Basic Mechanisms
 
 **Step 1.** We buy 5 of each new IotM, funded by donations from `{{ external sources }}`.
+
 **Step 2.** An IotM becomes available in the library for trade-in after `{{ certain conditions are met }}`.
+
 **Step 3.** On `{{ some cadence }}`, a `{{ certain number }}` of `{{ qualifying players }}` will be given access to trade `{{ something }}` in exchange for one available item in the library.
+
 **Step 4.** Each month additional IotMs are purchased using `{{ some portion }}` of the `{{ something }}` that was traded in step 3.
 
 ## Some Specifics
