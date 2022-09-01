@@ -4,7 +4,7 @@ Please note that anything in `{{}}` is a concept that warrants further decision.
 
 ## Mission Statement
 
-`{{ The Loathing Foundation}}` provides affordable access to old Items of the Month for players who want to be able to use them while playing the game.
+`{{ The Loathing Foundation}}` provides affordable access to old Items of the Month for players who want to be able to use them while playing the game Kingdom of Loathing.
 
 ## Basic Mechanisms
 
