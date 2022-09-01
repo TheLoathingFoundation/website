@@ -8,7 +8,7 @@ Please note that anything in `{{}}` is a concept that warrants further decision.
 
 ## Basic Mechanisms
 
-**Step 1.** We buy 5 of each new IotM, funded by donations from `{{ external sources }}`.
+**Step 1.** We buy 5 of each new IotM (Item of the Month), funded by donations from `{{ external sources }}`.
 
 **Step 2.** An IotM becomes available in the library for trade-in after `{{ certain conditions are met }}`.
 
