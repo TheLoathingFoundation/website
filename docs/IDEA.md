@@ -24,7 +24,7 @@ There has been a lot of discussion about how those blanks might be filled in, as
 
 > **Step 1.** We buy 5 of each new IotM, funded by donations from `{{ external sources }}`.
 
-This project would be funded by ASS members and well intended meat farmers who are interested in chipping in a collective 50 Uncle Bucks per month (5 Mr. As / month) for the good of the community.  This list would need to be fluid (nobody can be expected to always contribute; having this be relatively robust would be key.)
+This project would be funded by ASS (Ascension Speed Society) members and well intended meat farmers who are interested in chipping in a collective 50 Uncle Bucks per month (5 Mr. As / month) for the good of the community.  This list would need to be fluid (nobody can be expected to always contribute; having this be relatively robust would be key.)
 
 ### How do items mature? ("`certain conditions are met`")
 
