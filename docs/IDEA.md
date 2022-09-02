@@ -54,7 +54,7 @@ Should access be granted on some kind of a regular basis?  This can obviously sh
 
 Who gets to access this?  The rule of thumb down to the mission statement.  The goal of this system is not to make the rich richer, it's to provide a way for players who cannot otherwise afford an item to buy it at an affordable price, and use it for personal use.  For instance:
 
-* if someone has a net worth of a trillion meat, anything is affordable. 
+* if someone has a net worth of a trillion meat, anything is affordable.
 * if someone owns the item then they already have it.
 * if someone only wants the item in order to sell it later then they don't want it to play with.
 
