@@ -1,0 +1,13 @@
+#!/usr/bin/expect -f
+set path [lindex $argv 0];
+set username [lindex $argv 1];
+set password [lindex $argv 2];
+set command [lindex $argv 3];
+
+# Run mafia
+spawn java -jar "$path" --CLI
+expect "username: " { send "$username\r" }
+expect "password: " { send "$password\r" }
+expect " > " { send "$command\r" }
+expect " > " { send "quit\r" }
+expect eof

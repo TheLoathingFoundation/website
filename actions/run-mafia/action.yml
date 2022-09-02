@@ -1,0 +1,27 @@
+name: 'Run KoL Mafia Command'
+description: 'Runs a command through KoL mafia'
+inputs:
+  release:
+    description: 'The KoL Mafia github release to use'
+    required: false
+    default: 'latest'
+  username:
+    description: 'The username to log in with'
+    required: true
+  password:
+    description: 'The password to log in with'
+    required: true
+  command:
+    description: 'The command to invoke'
+    required: true
+outputs:
+  time: # id of output
+    description: 'The time we greeted you'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.release }}
+    - ${{ inputs.username }}
+    - ${{ inputs.password }}
+    - ${{ inputs.command }}
