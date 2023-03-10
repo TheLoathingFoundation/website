@@ -34,7 +34,7 @@
 
 <h2>Can I donate?</h2>
 
-<p>Absolutely! Send any donations via kmail to <b>The Loathing Foundation (#3580284)</b></p>
+<p>Absolutely! Send any donations via kmail to <b>TheLoathingFoundation (#3580284)</b></p>
 <p>Please note: <em>We do NOT deal with meat, only Mr. Items. </em></p>
 
 
