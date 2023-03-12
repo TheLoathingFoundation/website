@@ -19,8 +19,8 @@
 <h2>What's the catch?</h2>
 
 <p>If you obtain an item through The Loathing Foundation <em>you must use it</em>.</p>
-<p><em><b>Do not sell it</b> -- and don't sell copies of it in the future</em>.</p>
-<p>If we see a copy of an item you got from us in your mall store then you will have made us all very sad AND your membership to the foundation will be permanently revoked, leaving you forever ineligable to make future trades.</p>
+<p><em><b>Do not sell it</b></em>.</p>
+<p>We can't force you to do the right thing, but if we learn that you're taking advantage of this crazy idea to flip items and make a personal profit then you will have made us all very sad (and your membership to the foundation would be revoked, leaving you ineligible to make future trades).</p>
 
 <h2>How do I participate?</h2>
 
@@ -35,7 +35,7 @@
 <h2>Can I donate?</h2>
 
 <p>Absolutely! Send any donations via kmail to <b>TheLoathingFoundation (#3580284)</b></p>
-<p>Please note: <em>We do NOT deal with meat, only Mr. Items. </em></p>
+<p>Please note: <em>We do NOT deal with meat, only Mr. Accessories, Uncle Bucks, and items that you can buy from Mr. Store.</em></p>
 
 
 <style>
