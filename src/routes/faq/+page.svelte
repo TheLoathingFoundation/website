@@ -60,7 +60,7 @@
 
 <h2 id="runningOutOfFunds"><a href="#runningOutOfFunds">What if you run out of funds?</a></h2>
 <p>We can't ever truly run out of funds since we buy items directly from Mr. Store for 10 Uncle Bucks and sell them for 13 Uncle Bucks, and funds are never sent out of the foundation.</p>
-<p>That said, it's possible that the minting pool will temporarily run dry if players are have nott been making trades.</p>
+<p>That said, it's possible that the minting pool will temporarily run dry if players are have not been making trades.</p>
 <p>If that happens we wouldn't be able to purchase that month's Item of the Month and so that month's Item wouldn't be available through The Loathing Foundation.</p>
 
 <h2 id="whoRunsThis"><a href="#whoRunsThis">Who is behind this?</a></h2>
