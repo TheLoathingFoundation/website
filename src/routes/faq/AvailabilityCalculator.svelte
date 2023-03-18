@@ -15,6 +15,11 @@
 		'manual of gators',
 		'laser orca mascot',
 		'Beer Toaster',
+		'Asserted Glee',
+		'Train Realm Membership Packet',
+		'reinforced chimney',
+		'unused reusable toilet paper',
+		'unofficial garf mug',
 	]
 	const iotm = iotmExamples[Math.floor(Math.random()*iotmExamples.length)];
 	const getMonths = (count: number) => {
