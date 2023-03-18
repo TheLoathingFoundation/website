@@ -37,7 +37,7 @@
 </ol>
 
 <h2 id="cantAfford"><a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a></h2>
-<p>Not a problem. You can either write back saying that you intend to use your option, but need some time. If you need more than a few weeks another person will be picked but you'll be put into a priority queue that gets given first dibs the next month.</p>
+<p>Not a problem. You can write back saying that you intend to use your option, but need some time. If you need more than a few weeks OR if you just don't want to invoke the option then another person will be picked but you'll be put into a priority queue that gets given first dibs the next month.</p>
 
 <h2 id="alreadyOwn"><a href="#alreadyOwn">What if I already own (or don't want) the items available?</a></h2>
 <p>Thank you for being honest!  Just reply to the k-mail letting us know and you'll be put into a priority queue that gets given first dibs as soon as there are new items available.</p>
