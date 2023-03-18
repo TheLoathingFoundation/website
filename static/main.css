@@ -1,0 +1,37 @@
+
+em {
+	font-style: normal;
+	background-color: #ffffb2;
+}
+h1 {
+	margin-bottom: 0px;
+	margin-top: 30px;
+}
+h2 {
+	margin-bottom: 0px;
+	margin-top: 30px;
+}
+p {
+	margin: 10px 0px;
+	line-height: 1.4em;
+}
+h2 a {
+	color: black;
+	text-decoration: none;
+}
+li {
+	margin: 10px 0px;
+}
+
+span.code {
+	background: #eeeeee;
+	color: #aa0000;
+	padding: 2px;
+	font-family: monospace;
+}
+
+div.interactive {
+	border: 3px double black;
+	padding: 10px;
+	margin: 20px;
+}

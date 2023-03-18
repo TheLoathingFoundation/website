@@ -8,35 +8,30 @@
 
 <h2>How does it work?</h2>
 
-<p>Each month we invite some number of members to purchase one of the items that our loathing economists have deemed "available for distribution".</p>
+<p>Each month we invite some number of players to purchase one of the items that our loathing economists have deemed "available for distribution".</p>
 <p>Selected players will be able to trade <em>1 Mr. A + 3 Uncle Bucks for one "available" item of their choice</em>.</p>
 <p>The player gets the item, and The Loathing Foundation gets currency to buy future Items of the Month to add to the pool of future items!</p>
 
 <h2>Is this some kind of scam?</h2>
 
-<p>No!</p>
+<p>No! This is genuinely meant to be a source of discouted Items of the Month. <em>Nobody is making a profit from this</em>, and all proceeds from trades are used to buy more IOTMs for future players. Trades are performed via the KoL trade interface.</p>
+<p>You can learn more about how it works in <a href="faq">the FAQ</a>.</p>
 
 <h2>What's the catch?</h2>
-
 <p>If you obtain an item through The Loathing Foundation <em>you must use it</em>.</p>
 <p><em><b>Do not sell it</b></em>.</p>
-<p>We can't force you to do the right thing, but if we learn that you're taking advantage of this crazy idea to flip items and make a personal profit then you will have made us all very sad (and your membership to the foundation would be revoked, leaving you ineligible to make future trades).</p>
+<p>We can't force you to do the right thing, but if we learn that you're taking advantage of this crazy idea to flip items and make a personal profit then you will have made us all very sad (and you'll be ineligible to trade for items in future).</p>
 
 <h2>How do I participate?</h2>
-
 <div id="join">
 	<a href="https://forms.gle/Z63oLzmFCPFf4sDb7" target="_blank" rel="noreferrer">Sign Up</a>
 </div>
 
 <h2>How did you get all this stuff, some kind of infinite meat bug?</h2>
-
 <p>All items in The Loathing Foundation have been generously donated by members of the community (or purchased using the funds gained from the trade-in process).</p>
 
-<h2>Can I donate?</h2>
-
-<p>Absolutely! Send any donations via kmail to <b>TheLoathingFoundation (#3580284)</b></p>
-<p>Please note: <em>We do NOT deal with meat, only Mr. Accessories, Uncle Bucks, and items that you can buy from Mr. Store.</em></p>
-
+<h2>I have another question.</h2>
+<p>Well that's perfect because we have <a href="/faq">an FAQ</a>.</p>
 
 <style>
 	#mission {
@@ -59,17 +54,5 @@
 		text-decoration: none;
 		color: black;
 		background-color: #cccefb;
-	}
-	em {
-		font-style: normal;
-		background-color: #ffffb2;
-	}
-	h2 {
-		margin-bottom: 0px;
-		margin-top: 30px;
-	}
-	p {
-		margin: 10px 0px;
-		line-height: 1.4em;
 	}
 </style>
