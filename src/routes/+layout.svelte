@@ -1,8 +1,8 @@
-<script>
-</script>
+<link rel="stylesheet" href="/main.css">
+
 <div id="header">
 	<div id="logo">
-		<img src="/images/logo.png" alt="The Loathing Foundation"/>
+		<a href="/"><img src="/images/logo.png" alt="The Loathing Foundation"/></a>
 	</div>
 </div>
 
