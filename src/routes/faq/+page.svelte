@@ -30,7 +30,7 @@
 <p>Congratulations! Here's the process:</p>
 <ol>
 	<li><b>TheLoathingFoundation (#3580284)</b> will send you a k-mail asking you to respond with an up to date inventory snapshot for your account.</li>
-	<li>Once you reply, TheLoathingFoundation will send you a list of the available items you're eligible to purcahse based on that snapshot.</li>
+	<li>Once you reply, TheLoathingFoundation will send you a list of the available items you're eligible to purchase based on that snapshot.</li>
 	<li>You will then reply with the item you want, and TheLoathingFoundation will send a trade request offering that item.</li>
 	<li>You just have to respond to the request with <em>1 Mr. A and 3 Uncle Bucks</em>.</li>
 	<li>You use your item and <em>send an updated inventory snapshot</em>.</li>
