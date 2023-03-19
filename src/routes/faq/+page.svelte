@@ -37,7 +37,7 @@
 </ol>
 
 <h2 id="cantAfford"><a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a></h2>
-<p>Not a problem. You can write back saying that you intend to use your option, but need some time. If you need more than a few weeks OR if you just don't want to invoke the option then another person will be picked but you'll be put into a priority queue that gets given first dibs the next month.</p>
+<p>Not a problem. You can write back saying that you intend to use your option, but need some time.  Just let us know which item it is you wanted to trade for and we'll "reserve" it for you for up to three months (including the month you were eligable for the original trade).</p>
 
 <h2 id="alreadyOwn"><a href="#alreadyOwn">What if I already own (or don't want) the items available?</a></h2>
 <p>Thank you for being honest!  Just reply to the k-mail letting us know and you'll be put into a priority queue that gets given first dibs as soon as there are new items available.</p>
@@ -60,7 +60,7 @@
 
 <h2 id="runningOutOfFunds"><a href="#runningOutOfFunds">What if you run out of funds?</a></h2>
 <p>We can't ever truly run out of funds since we buy items directly from Mr. Store for 10 Uncle Bucks and sell them for 13 Uncle Bucks, and funds are never sent out of the foundation.</p>
-<p>That said, it's possible that the minting pool will temporarily run dry if players are have not been making trades.</p>
+<p>That said, it's possible that the minting pool will temporarily run dry if players have not been making trades.</p>
 <p>If that happens we wouldn't be able to purchase that month's Item of the Month and so that month's Item wouldn't be available through The Loathing Foundation.</p>
 
 <h2 id="whoRunsThis"><a href="#whoRunsThis">Who is behind this?</a></h2>
