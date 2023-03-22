@@ -22,25 +22,26 @@
 </div>
 
 <h2 id="pickingPlayers"><a href="#pickingPlayers">How do you pick the players who get to make a trade?</a></h2>
-<p>Players are selected at random at the start of each month. The number of players picked is equal to the number of available items for that month.</p>
-<p>To be considered, players have to <a href="https://forms.gle/Z63oLzmFCPFf4sDb7" target="_blank" rel="noreferrer">sign up</a></p>
-<p></p>
+<p>Each month TheLoathingFoundation (#3580284) will send a k-mail to everybody <a href="https://forms.gle/Z63oLzmFCPFf4sDb7" target="_blank" rel="noreferrer">who has registered</a> announcing the pool of available items for the month.</p>
+<p>Players will have 7 days from the announcement to <em>respond with a ranked list</em> of any available items they would like to be able to purchase at a discount. Any player who replies will be entered into that month's drawing pool.</p>
+<p><b><em>Do not indicate interest for items that you already own.</em></b></p>
+<p><b><em>Do not indicate interest for items that you don't actually want.</em></b></p>
+<p>Players will be randomly selected from the pool.  The first player picked will receive their first choice; the second will receive their first choice if it is still available and will otherwise receive their second choice. This will continue until each item has been allocated to somebody.</p>
 
 <h2 id="iveBeenPicked"><a href="#iveBeenPicked">What happens if you're picked?</a></h2>
 <p>Congratulations! Here's the process:</p>
 <ol>
-	<li><b>TheLoathingFoundation (#3580284)</b> will send you a k-mail asking you to respond with an up to date inventory snapshot for your account.</li>
-	<li>Once you reply, TheLoathingFoundation will send you a list of the available items you're eligible to purchase based on that snapshot.</li>
-	<li>You will then reply with the item you want, and TheLoathingFoundation will send a trade request offering that item.</li>
-	<li>You just have to respond to the request with <em>1 Mr. A and 3 Uncle Bucks</em>.</li>
-	<li>You use your item and <em>send an updated inventory snapshot</em>.</li>
+	<li><b>TheLoathingFoundation (#3580284)</b> will send you a k-mail letting you know you're been picked and asking you to respond with an up to date inventory snapshot for your account.</li>
+	<li>Once you reply TheLoathingFoundation will send a trade request for the item allocated to you.</li>
+	<li>You should respond to the request with <em>1 Mr. A and 3 Uncle Bucks</em>.</li>
+	<li>You use your item, <em>send an updated inventory snapshot</em>, and have fun!</li>
 </ol>
 
 <h2 id="cantAfford"><a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a></h2>
 <p>Not a problem. You can write back saying that you intend to use your option, but need some time.  Just let us know which item it is you wanted to trade for and we'll "reserve" it for you for up to three months (including the month you were eligable for the original trade).</p>
 
 <h2 id="alreadyOwn"><a href="#alreadyOwn">What if I already own (or don't want) the items available?</a></h2>
-<p>Thank you for being honest!  Just reply to the k-mail letting us know and you'll be put into a priority queue that gets given first dibs as soon as there are new items available.</p>
+<p>Thank you for being honest!  You won't be expected to make the trade; just let us know, and then the item that had been set aside for you will just get added back to the availability pool for the next month.</p>
 
 <h2 id="whatToBuy"><a href="#whatToBuy">How do you decide how many items to buy from Mr. Store?</a></h2>
 <p>We have a <span class="code">Minting Pool</span> which is a pile of Mr. Accessories that we've obtained either through trades of donations.  Every month we mint <em>a minimum of 5 copies</em> of the new Item of the Month. If the minting pool is large enough we will buy more than 5.</p>
