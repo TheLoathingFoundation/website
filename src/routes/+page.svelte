@@ -14,7 +14,7 @@
 
 <h2>Is this some kind of scam?</h2>
 
-<p>No! This is genuinely meant to be a source of discouted Items of the Month. <em>Nobody is making a profit from this</em>, and all proceeds from trades are used to buy more IOTMs for future players. Trades are performed via the KoL trade interface.</p>
+<p>No! This is genuinely meant to be a source of discounted Items of the Month. <em>Nobody is making a profit from this</em>, and all proceeds from trades are used to buy more IOTMs for future players. Trades are performed via the KoL trade interface.</p>
 <p>You can learn more about how it works in <a href="faq">the FAQ</a>.</p>
 
 <h2>What's the catch?</h2>
