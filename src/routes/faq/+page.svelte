@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>The Loathing Foundation: FAQ</title>
+	<meta property="og:title" content="The Loathing Foundation: FAQ" />
+	<meta property="og:url" content="https://foundation.loathers.net/faq" />
+</svelte:head>
 <script>
 	import AvailabilityCalculator from "./AvailabilityCalculator.svelte";
 	import MintingCalculator from "./MintingCalculator.svelte";
