@@ -40,7 +40,7 @@
 <h2 id="cantAfford"><a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a></h2>
 <p>Not a problem. You can write back saying that you intend to use your option, but need some time.  Just let us know which item it is you wanted to trade for and we'll "reserve" it for you for up to three months (including the month you were eligible for the original trade).</p>
 
-<h2 id="alreadyOwn"><a href="#alreadyOwn">What if I already own (or don't want) the items available?</a></h2>
+<h2 id="alreadyOwn"><a href="#alreadyOwn">What if I'm picked and no longer want (or already own) the item?</a></h2>
 <p>Thank you for being honest!  You won't be expected to make the trade; just let us know, and then the item that had been set aside for you will just get added back to the availability pool for the next month.</p>
 
 <h2 id="whatToBuy"><a href="#whatToBuy">How do you decide how many items to buy from Mr. Store?</a></h2>
