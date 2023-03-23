@@ -1,4 +1,11 @@
-<link rel="stylesheet" href="/main.css">
+<svelte:head>
+	<link rel="stylesheet" href="/main.css">
+	<meta name="description" content="The Loathing Foundation provides affordable access to items sold in Mr. Store for players who want to actually use them.">
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="https://foundation.loathers.net/images/logo.png" />
+	<meta property="og:description" content="The Loathing Foundation provides affordable access to items sold in Mr. Store for players who want to actually use them." />
+</svelte:head>
+
 
 <div id="header">
 	<div id="logo">
