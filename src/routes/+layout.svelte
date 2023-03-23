@@ -10,6 +10,10 @@
 	<slot />
 </div>
 
+<div id="footer">
+	<em>This site is Open Source.</em> Want to make an improvement?  <a href="https://github.com/slifty/the-loathing-foundation/">Open a PR</a>.
+</div>
+
 <style>
 	#header {
 		text-align: center;
@@ -20,5 +24,10 @@
 	}
 	* {
 		font-family: arial;
+	}
+	#footer {
+		text-align: center;
+		margin-top: 40px;
+		font-size: .8em;
 	}
 </style>
