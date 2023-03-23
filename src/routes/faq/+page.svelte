@@ -33,12 +33,12 @@
 <ol>
 	<li><b>TheLoathingFoundation (#3580284)</b> will send you a k-mail letting you know you're been picked and asking you to respond with an up to date inventory snapshot for your account.</li>
 	<li>Once you reply TheLoathingFoundation will send a trade request for the item allocated to you.</li>
-	<li>You should respond to the request with <em>1 Mr. A and 3 Uncle Bucks</em>.</li>
+	<li>You should respond to the request with <em>1 Mr. A and 3 Uncle Bucks</em> (or 13 Uncle Bucks).</li>
 	<li>You use your item, <em>send an updated inventory snapshot</em>, and have fun!</li>
 </ol>
 
 <h2 id="cantAfford"><a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a></h2>
-<p>Not a problem. You can write back saying that you intend to use your option, but need some time.  Just let us know which item it is you wanted to trade for and we'll "reserve" it for you for up to three months (including the month you were eligable for the original trade).</p>
+<p>Not a problem. You can write back saying that you intend to use your option, but need some time.  Just let us know which item it is you wanted to trade for and we'll "reserve" it for you for up to three months (including the month you were eligible for the original trade).</p>
 
 <h2 id="alreadyOwn"><a href="#alreadyOwn">What if I already own (or don't want) the items available?</a></h2>
 <p>Thank you for being honest!  You won't be expected to make the trade; just let us know, and then the item that had been set aside for you will just get added back to the availability pool for the next month.</p>
