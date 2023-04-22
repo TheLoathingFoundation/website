@@ -54,7 +54,7 @@
 </div>
 
 <h2 id="legacyItems">
-	<a href="#lastCalls">Are there different processes for non-standard items?</a>
+	<a href="#legacyItems">Are there different processes for non-standard items?</a>
 </h2>
 <p>
 	We distribute legacy items (those that are no longer in <a
