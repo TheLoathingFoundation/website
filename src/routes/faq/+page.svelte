@@ -26,13 +26,13 @@
 </p>
 
 <h2 id="availableForTrade">
-	<a href="#availableForTrade">How do you decide what Standard items are available for trade?</a>
+	<a href="#availableForTrade">How do you decide what standard items are available for trade?</a>
 </h2>
 <p>
 	When a <a
 		href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions"
 		target="_blank"
-		rel="noreferrer">Standard item</a
+		rel="noreferrer">standard item</a
 	>'s mall price has reached at least <em>2x the price of a Mr. Accessory</em> for a month or more, it
 	becomes "mature" at which point it starts to become available for trade.
 </p>
@@ -74,6 +74,13 @@
 	>. We will keep track; you don't have to.
 </p>
 
+<p>
+	<i
+		>* this amount may become dynamic to be similar to the standard item distribution formula, but
+		we are starting with 1.</i
+	>
+</p>
+
 <h2 id="nonbinding">
 	<a href="#nonbinding">What if I get a non-binding item from this project?</a>
 </h2>
@@ -90,13 +97,6 @@
 <p>
 	You are, of course, always welcome to donate a non-binding Item of the Month back to TLF, and we
 	will make sure it gets re-distributed!
-</p>
-
-<p>
-	<i
-		>* this amount may become dynamic to be similar to the standard item distribution formula, but
-		we are starting with 1.</i
-	>
 </p>
 
 <h2 id="pickingPlayers">
