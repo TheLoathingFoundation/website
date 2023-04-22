@@ -17,14 +17,27 @@
 <p>This is not a bank; it is a self sustaining charity. The only beneficiaries are randomly selected players who are given a chance to buy discounted Items of the Month.</p>
 <p>Proceeds from trades are used exclusively to fund additional Items of the Month.  Items of the Month are stored in the Foundation's Display Case and saved until they are made available for trading.</p>
 
-<h2 id="availableForTrade"><a href="#availableForTrade">How do you decide what items are available for trade?</a></h2>
-<p>When an item's mall price has reached at least <em>2x the price of a Mr. Accessory</em> for a month or more, it becomes "mature" at which point it starts to become available for trade.</p>
-<p>Each month some number of mature items are set aside as "available" for trade.  The reason we don't make them all available right away is that we want to spread out item distribution over time. If you really want to know, the formula is <span class="code">max(1, round(CopiesOfTheMatureItem / 12))</span>.</p>
+<h2 id="availableForTrade"><a href="#availableForTrade">How do you decide what Standard items are available for trade?</a></h2>
+<p>When a <a href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions" target="_blank" rel="noreferrer">Standard item</a>'s mall price has reached at least <em>2x the price of a Mr. Accessory</em> for a month or more, it becomes "mature" at which point it starts to become available for trade.</p>
+<p>Each month some number of EACH mature item is set aside as "available" for trade.  <em>If more than one item is mature, some number of EACH would be available.</em></p>
+<p>We don't make all copies of a given mature item available right away, which helps them stay available for longer. If you really want to know, the formula is <span class="code">max(1, round(CopiesOfTheMatureItem / 12))</span>.</p>
 <p>Here's an interactive to help explain.</p>
 
 <div class="interactive">
 	<AvailabilityCalculator></AvailabilityCalculator>
 </div>
+
+<h2 id="legacyItems"><a href="#lastCalls">Are there different processes for non-standard items?</a></h2>
+<p>We distribute legacy items (those that are no longer in <a href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions" target="_blank" rel="noreferrer">standard</a>) in a more controlled pace.  This is because we have fewer copies of them and they arrive in unpredictable batches / through donations.</p>
+<p>We will distribute <em>1 (one) mature legacy item per month*</em>.  Which item we distribute is randomly chosen at the beginning of the month and will be communicated to participating players.</p>
+<p>If a player obtains a legacy item through us <em>they won't be able to win another legacy item for 3 (three) months</em>.  We will keep track; you don't have to.</p>
+
+<h2 id="nonbinding"><a href="#nonbinding">What if I get a non-binding item from this project?</a></h2>
+<p>If you obtain a non-binding Item of the Month from The Loathing Foundation, we ask that you <em>maintain the spirit of The Loathing Foundation</em> as your relationship with the item develops over time.</p>
+<p>This means you should use it (or stash it with a clan that will share it), rather than treat it as an opportunity to make meat from a re-sale.  If you find yourself tired of owning it, please find a way to get it to someone else, at an affordable price.</p>
+<p>You are, of course, always welcome to donate a non-binding Item of the Month back to TLF, and we will make sure it gets re-distributed!</p>
+
+<p><i>* this amount may become dynamic to be similar to the standard item distribution formula, but we are starting with 1.</i></p>
 
 <h2 id="pickingPlayers"><a href="#pickingPlayers">How do you pick the players who get to make a trade?</a></h2>
 <p>Each month TheLoathingFoundation (#3580284) will send a k-mail to everybody <a href="https://forms.gle/Z63oLzmFCPFf4sDb7" target="_blank" rel="noreferrer">who has registered</a> announcing the pool of available items for the month.</p>
