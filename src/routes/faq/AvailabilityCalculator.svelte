@@ -19,36 +19,42 @@
 		'Train Realm Membership Packet',
 		'reinforced chimney',
 		'unused reusable toilet paper',
-		'unofficial garf mug',
-	]
-	const iotm = iotmExamples[Math.floor(Math.random()*iotmExamples.length)];
+		'unofficial garf mug'
+	];
+	const iotm = iotmExamples[Math.floor(Math.random() * iotmExamples.length)];
 	const getMonths = (count: number) => {
 		const months: number[] = [];
-		for (let x = count; x > 0;) {
+		for (let x = count; x > 0; ) {
 			const availableThisMonth = Math.ceil(x / 12);
 			x = x - availableThisMonth;
 			months.push(availableThisMonth);
 		}
 		return months;
-	}
+	};
 	$: months = getMonths(copies);
 </script>
 
 <p>The Loathing Foundation has some amount of a very real Item of the Month...</p>
-<p class="veryRealItemOfTheMonth"><input id="copies" type="number" bind:value={copies} min=0/> {copies === 1?'copy':'copies'} of <span class="code">{iotm}</span></p>
-<p>This IotM has been selling for over 2x the price of a Mr. Accessory for at least a month, so it's mature.</p>
+<p class="veryRealItemOfTheMonth">
+	<input id="copies" type="number" bind:value={copies} min="0" />
+	{copies === 1 ? 'copy' : 'copies'} of <span class="code">{iotm}</span>
+</p>
+<p>
+	This IotM has been selling for over 2x the price of a Mr. Accessory for at least a month, so it's
+	mature.
+</p>
 <p>How many copies of it will be available, and over what time period?</p>
 <table>
-<tr>
-	<th>Month</th>
-	<th>Qty.</th>
-</tr>
-{#each months as available, index (index)}
 	<tr>
-		<td class="month">{index + 1}</td>
-		<td>{available}</td>
+		<th>Month</th>
+		<th>Qty.</th>
 	</tr>
-{/each}
+	{#each months as available, index (index)}
+		<tr>
+			<td class="month">{index + 1}</td>
+			<td>{available}</td>
+		</tr>
+	{/each}
 </table>
 
 <style>
@@ -80,5 +86,4 @@
 		text-align: center;
 		margin: 20px;
 	}
-
 </style>
