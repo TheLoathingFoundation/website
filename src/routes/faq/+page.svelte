@@ -57,21 +57,24 @@
 	<a href="#legacyItems">Are there different processes for non-standard items?</a>
 </h2>
 <p>
-	We distribute legacy items (those that are no longer in <a
+	Only slightly. Legacy items (those that are no longer in <a
 		href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions"
 		target="_blank"
 		rel="noreferrer">standard</a
-	>) in a more controlled pace. This is because we have fewer copies of them and they arrive in
-	unpredictable batches / through donations.
+	>) that have matured (are worth over 2x a Mr. A) become available at a slightly throttled
+	controlled pace. This is because we have fewer copies of them and they arrive in unpredictable
+	batches / through donations.
 </p>
 <p>
-	We will distribute <em>1 (one) mature legacy item per month*</em>. Which item we distribute is
-	randomly chosen at the beginning of the month and will be communicated to participating players.
+	Specifically, only <em>1 (one) mature legacy item will be available per month*</em>. Which item
+	will be available is randomly chosen at the beginning of the month and will be communicated to
+	participating players ahead of time.
 </p>
 <p>
 	If a player obtains a legacy item through us <em
 		>they won't be able to win another legacy item for 3 (three) months</em
-	>. We will keep track; you don't have to.
+	>. We will keep track; you don't have to. We will also make sure everybody knows the upcoming
+	legacy items so you can prioritize as desired.
 </p>
 
 <p>
