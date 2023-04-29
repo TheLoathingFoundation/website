@@ -229,7 +229,7 @@
 	type Event = DonationEvent | PoolFormationAnnouncement | PoolStatusEvent | DistributionEvent;
 
 	const animationSpeed = 2000;
-	const animationSpacing = 100;
+	const animationSpacing = 500;
 	const newPoolSize = 3;
 	const newVaultSize = 11;
 	let eventIndex = 0;
