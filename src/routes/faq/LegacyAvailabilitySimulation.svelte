@@ -423,10 +423,7 @@
 				{:else if event.type === 'DISTRIBUTION'}
 					<div class="event distribution">
 						<p>
-							<TypingAnimation
-								text="A player was assigned {event.item}"
-								interval={animationSpeed / 2}
-							/>
+							<TypingAnimation text="A player chose {event.item}" interval={animationSpeed / 2} />
 						</p>
 					</div>
 				{/if}
