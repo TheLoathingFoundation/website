@@ -31,5 +31,5 @@
 </script>
 
 <div>
-	<p>{text.slice(0, currentIndex)}</p>
+	{text.slice(0, currentIndex)}
 </div>
