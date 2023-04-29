@@ -2,6 +2,7 @@
 	import AvailabilityCalculator from './AvailabilityCalculator.svelte';
 	import MintingCalculator from './MintingCalculator.svelte';
 	import SustainabilityCalculator from './SustainabilityCalculator.svelte';
+	import LegacyAvailabilitySimulation from './LegacyAvailabilitySimulation.svelte';
 </script>
 
 <svelte:head>
@@ -54,31 +55,32 @@
 </div>
 
 <h2 id="legacyItems">
-	<a href="#legacyItems">Are there different processes for non-standard items?</a>
+	<a href="#legacyItems">Are there different processes for older items?</a>
 </h2>
 <p>
-	Just slightly. Legacy items (those that are no longer in <a
+	Legacy items (those that are no longer in <a
 		href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions"
 		target="_blank"
 		rel="noreferrer">standard</a
-	>) that have matured (are worth over 2x a Mr. A) become available at a more controlled pace. This
-	is because we have fewer copies of them and they arrive in unpredictable batches / through
-	donations.
+	>) that are worth over 2x a Mr. A are made available in a more controlled way. This is because we
+	have fewer copies of them and they arrive in unpredictable quantities / through donations:
 </p>
-<p>
-	<em>Only 1 (one)* mature legacy item will be made available each month</em>. Which items are
-	available is randomly selected. Upcoming legacy item availability will be communicated ahead of
-	time.
-</p>
-<p>
-	If a player obtains a legacy item through us <em
-		>they won't be able to win another legacy item for 3 (three) months</em
-	>. We will keep track; you don't have to.
-</p>
+<ul>
+	<li><em>Legacy items are made available in batches of 3 (three)*</em>.</li>
+	<li>Batches are distributed over several months.</li>
+	<li><em>Only 1 (one)* legacy item will be distributed each month</em>.</li>
+	<li><em>You cannot obtain more than one legacy item from the same pool</em>.</li>
+</ul>
 
 <p>
-	<i>* this amount may eventually be updated.</i>
+	<i>* these amount may eventually change.</i>
 </p>
+
+<p>Here's a simulation to help explain.</p>
+
+<div class="interactive">
+	<LegacyAvailabilitySimulation />
+</div>
 
 <h2 id="nonbinding">
 	<a href="#nonbinding">What if I get a non-binding item from this project?</a>
