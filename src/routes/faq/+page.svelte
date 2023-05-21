@@ -256,3 +256,22 @@
 	The Loathing Foundation does not have a mall store, does not purchase items from the mall, and
 	does not accept or deal with meat in any form.
 </p>
+
+<h2 id="multis"><a href="#multis">Can I donate or participate using a multi account?</a></h2>
+<p>
+	<em><b><u>No.</u></b> Do not interact with The Loathing Foundation from a multi account</em>! It
+	goes against our mission, but more importantly there are lots of rules around multi accounts out
+	there. We don't want you to put your accounts at risk of being in trouble.
+</p>
+
+<h2 id="advertising"><a href="#advertising">I want to spread the word, any guidelines?</a></h2>
+<p>
+	<em
+		>We have been asked by the in game chat mods to NOT talk about The Loathing Foundation in chat.</em
+	> We're told it isn't a judgment about this project, but that they have a blanket rule about these
+	types of out-of-game efforts.
+</p>
+<p>
+	Please feel free to tell your clan about it, and any other communities you're a part of (so long
+	as it does not violate their rules, of course).
+</p>
