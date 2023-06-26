@@ -185,9 +185,9 @@
   version "2.0.2"
   resolved "https://registry.npmjs.org/@sveltejs/adapter-static/-/adapter-static-2.0.2.tgz"
 
-"@sveltejs/kit@^1.20.4":
-  version "1.20.4"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.20.4.tgz#5082de689ef5ae49dc0185344968c065682cfe0d"
+"@sveltejs/kit@^1.20.5":
+  version "1.20.5"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.20.5.tgz#5797ff20413b6b49e54012de4a19eb9a1f00a56a"
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^2.4.1"
     "@types/cookie" "^0.5.1"
