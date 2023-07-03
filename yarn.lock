@@ -1175,9 +1175,9 @@ svelte-preprocess@^5.0.3:
     sorcery "^0.11.0"
     strip-indent "^3.0.0"
 
-svelte@^3.59.1:
-  version "3.59.1"
-  resolved "https://registry.npmjs.org/svelte/-/svelte-3.59.1.tgz"
+svelte@^3.59.2:
+  version "3.59.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.59.2.tgz#a137b28e025a181292b2ae2e3dca90bf8ec73aec"
 
 text-table@^0.2.0:
   version "0.2.0"
