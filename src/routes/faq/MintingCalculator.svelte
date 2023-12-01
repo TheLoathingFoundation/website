@@ -1,6 +1,6 @@
 <script lang="ts">
 	let mintingPool = 20;
-	$: copies = Math.max(5, Math.ceil(mintingPool / 12));
+	$: copies = Math.max(5, Math.ceil(mintingPool / 6));
 </script>
 
 <p>

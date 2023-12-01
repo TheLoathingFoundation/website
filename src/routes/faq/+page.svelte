@@ -165,7 +165,7 @@
 	obtained either through trades of donations. Every month we mint <em>a minimum of 5 copies</em> of
 	the new Item of the Month. If the minting pool is large enough we will buy more than 5.
 </p>
-<p>The formula is: <span class="code">max(5, ceil(SizeOfMintingPool/12)</span></p>
+<p>The formula is: <span class="code">max(5, ceil(SizeOfMintingPool / 6)</span></p>
 <p>Here's an interactive to help explain.</p>
 
 <div class="interactive">
