@@ -202,9 +202,10 @@
 
 <h2 id="whoRunsThis"><a href="#whoRunsThis">Who is behind this?</a></h2>
 <p>
-	This project started in the <a href="https://discord.gg/kol" target="_blank" rel="noreferrer"
-		>Ascension Speed Society</a
-	> and is maintained by members of that community. Please feel free to stop by and say hello!
+	This project is maintained by a few members of the KoL community (primarily slifty #17040367). If
+	you have any questions feel free to kick off a <a
+		href="https://github.com/TheLoathingFoundation/website/discussions">discussion</a
+	>.
 </p>
 
 <h2 id="canIDonate"><a href="#canIDonate">Can I help support this?</a></h2>

@@ -17,11 +17,8 @@
 <h2>Wait, What?</h2>
 
 <p>
-	The Loathing Foundation is a philanthropic community project from the <a
-		href="https://discord.gg/kol"
-		target="_blank"
-		rel="noreferrer">Ascension Speed Society</a
-	>. We provide a way for players to potentially access
+	The Loathing Foundation is a philanthropic community project. We provide a way for players to
+	potentially access
 	<a href="https://museum.loathers.net/player/3580284" target="_blank" rel="noreferrer"
 		>past items of the month</a
 	> without having to spend billions of real world dollars.
