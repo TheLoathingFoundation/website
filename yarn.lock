@@ -193,9 +193,9 @@
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@sveltejs/adapter-static/-/adapter-static-2.0.3.tgz#616836c30bdce4d673a2e26c0f5ffbd5c1bc7c67"
 
-"@sveltejs/kit@^1.30.3":
-  version "1.30.3"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.30.3.tgz#3e1d57283352bcc6900592171139f1ff97d4e85f"
+"@sveltejs/kit@^1.30.4":
+  version "1.30.4"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.30.4.tgz#4ce7da5bd71925ee6c107d137385eb4cead40b45"
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^2.5.0"
     "@types/cookie" "^0.5.1"
@@ -209,7 +209,7 @@
     set-cookie-parser "^2.6.0"
     sirv "^2.0.2"
     tiny-glob "^0.2.9"
-    undici "~5.26.2"
+    undici "^5.28.3"
 
 "@sveltejs/vite-plugin-svelte-inspector@^1.0.4":
   version "1.0.4"
@@ -1200,9 +1200,9 @@ typescript@^5.0.3, typescript@^5.3.3:
   version "5.3.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.3.3.tgz#b3ce6ba258e72e6305ba66f5c9b452aaee3ffe37"
 
-undici@~5.26.2:
-  version "5.26.5"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.26.5.tgz#f6dc8c565e3cad8c4475b187f51a13e505092838"
+undici@^5.28.3:
+  version "5.28.3"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-5.28.3.tgz#a731e0eff2c3fcfd41c1169a869062be222d1e5b"
   dependencies:
     "@fastify/busboy" "^2.0.0"
 
