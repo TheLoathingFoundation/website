@@ -1120,9 +1120,9 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.7.0.tgz#9ccfbcff29052737fc57ed13eff3c4a1d7ff78eb"
+svelte-check@^3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.7.1.tgz#d24d0535b22d9d9d8b50aa41f894f59544e9e577"
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.17"
     chokidar "^3.4.1"
