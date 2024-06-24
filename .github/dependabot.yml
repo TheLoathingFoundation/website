@@ -5,7 +5,11 @@ updates:
   - package-ecosystem: 'npm'
     directory: '/'
     schedule:
-      interval: 'weekly'
+      interval: 'monthly'
+    groups:
+      everything:
+        patterns:
+          - '*'
   - package-ecosystem: 'github-actions'
     directory: '.github/workflows'
     schedule:
