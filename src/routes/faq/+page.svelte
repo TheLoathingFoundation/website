@@ -174,7 +174,7 @@
 
 <h2 id="sustainability"><a href="#sustainability">How is this sustainable?</a></h2>
 <p>
-	This project it actually manages to fund itself! Each time a player buys an item it adds <em
+	This project actually manages to fund itself! Each time a player buys an item it adds <em
 		>13 Uncle Bucks</em
 	> to the minting pool, which can be used to buy future items.
 </p>
@@ -204,7 +204,7 @@
 <p>
 	This project is maintained by a few members of the KoL community (primarily slifty #17040367). If
 	you have any questions feel free to kick off a <a
-		href="https://github.com/TheLoathingFoundation/website/discussions">discussion</a
+		href="https://github.com/orgs/TheLoathingFoundation/discussions">discussion</a
 	>.
 </p>
 
