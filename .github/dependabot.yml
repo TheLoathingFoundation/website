@@ -6,6 +6,9 @@ updates:
     directory: '/'
     schedule:
       interval: 'monthly'
+    ignore:
+      - dependency-name: 'eslint'
+        update-types: ['version-update:semver-major']
     groups:
       everything:
         patterns:
