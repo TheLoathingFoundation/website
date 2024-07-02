@@ -43,7 +43,7 @@
 	>
 </p>
 <p>
-	We don't make all copies of a given mature item available right away, which helps them stay
+	We don't make all copies of a given mature item available right away, which helps them stay
 	available for longer. If you really want to know, the formula is <span class="code"
 		>max(1, round(CopiesOfTheMatureItem / 12))</span
 	>.
