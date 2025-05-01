@@ -342,76 +342,49 @@
 <div>
 	<button class="start-button" on:click={startSimulation}>Start simulation</button>
 	<div class="console">
-		{#each events as event}
-			{#key event.index}
-				{#if event.type === 'DONATION'}
-					<div class="event donation" id={`${event.index}`}>
-						<h3>
-							<TypingAnimation
-								text="Someone donated legacy items!"
-								interval={animationSpeed / (event.items.length + 1)}
-							/>
-						</h3>
-						<ul>
-							{#each event.items as item, i}<li>
-									<TypingAnimation
-										text={item}
-										interval={animationSpeed / (event.items.length + 1)}
-										delay={(i + 1) * (animationSpeed / (event.items.length + 1))}
-									/>
-								</li>{/each}
-						</ul>
+		{#each events as event (event.index)}
+			{#if event.type === 'DONATION'}
+				<div class="event donation" id={`${event.index}`}>
+					<h3>
+						<TypingAnimation
+							text="Someone donated legacy items!"
+							interval={animationSpeed / (event.items.length + 1)}
+						/>
+					</h3>
+					<ul>
+						{#each event.items as item, i (i)}<li>
+								<TypingAnimation
+									text={item}
+									interval={animationSpeed / (event.items.length + 1)}
+									delay={(i + 1) * (animationSpeed / (event.items.length + 1))}
+								/>
+							</li>{/each}
+					</ul>
+				</div>
+			{:else if event.type === 'POOL_FORMATION'}
+				{#if event.items.length === 0}
+					<div class="event pool-formation">
+						<h3><TypingAnimation text="STATUS: All legacy items have been distributed" /></h3>
 					</div>
-				{:else if event.type === 'POOL_FORMATION'}
-					{#if event.items.length === 0}
-						<div class="event pool-formation">
-							<h3><TypingAnimation text="STATUS: All legacy items have been distributed" /></h3>
-						</div>
-					{:else}
-						<div class="event pool-formation">
-							<h3>
-								<TypingAnimation
-									text="EVENT: New Pool Selected"
-									interval={animationSpeed / (event.items.length + 2)}
-								/>
-							</h3>
-							<p>
-								<TypingAnimation
-									text="Picked {event.items.length} item{event.items.length === 1
-										? ''
-										: 's'} for the availability pool..."
-									interval={animationSpeed / (event.items.length + 2)}
-									delay={animationSpeed / (event.items.length + 2)}
-								/>
-							</p>
-							<ul>
-								{#each event.items as item, i}<li>
-										<TypingAnimation
-											text={item}
-											interval={animationSpeed / (event.items.length + 2)}
-											delay={((i + 2) * animationSpeed) / (event.items.length + 2)}
-										/>
-									</li>{/each}
-							</ul>
-						</div>
-					{/if}
-				{:else if event.type === 'POOL_STATUS'}
-					<div class="event month-status">
+				{:else}
+					<div class="event pool-formation">
 						<h3>
 							<TypingAnimation
-								text="Month {event.month}"
+								text="EVENT: New Pool Selected"
 								interval={animationSpeed / (event.items.length + 2)}
 							/>
 						</h3>
 						<p>
 							<TypingAnimation
-								text="Available legacy items:"
+								text="Picked {event.items.length} item{event.items.length === 1
+									? ''
+									: 's'} for the availability pool..."
 								interval={animationSpeed / (event.items.length + 2)}
 								delay={animationSpeed / (event.items.length + 2)}
 							/>
 						</p>
 						<ul>
-							{#each event.items as item, i}<li>
+							{#each event.items as item, i (i)}<li>
 									<TypingAnimation
 										text={item}
 										interval={animationSpeed / (event.items.length + 2)}
@@ -420,14 +393,39 @@
 								</li>{/each}
 						</ul>
 					</div>
-				{:else if event.type === 'DISTRIBUTION'}
-					<div class="event distribution">
-						<p>
-							<TypingAnimation text="A player chose {event.item}" interval={animationSpeed / 2} />
-						</p>
-					</div>
 				{/if}
-			{/key}
+			{:else if event.type === 'POOL_STATUS'}
+				<div class="event month-status">
+					<h3>
+						<TypingAnimation
+							text="Month {event.month}"
+							interval={animationSpeed / (event.items.length + 2)}
+						/>
+					</h3>
+					<p>
+						<TypingAnimation
+							text="Available legacy items:"
+							interval={animationSpeed / (event.items.length + 2)}
+							delay={animationSpeed / (event.items.length + 2)}
+						/>
+					</p>
+					<ul>
+						{#each event.items as item, i (i)}<li>
+								<TypingAnimation
+									text={item}
+									interval={animationSpeed / (event.items.length + 2)}
+									delay={((i + 2) * animationSpeed) / (event.items.length + 2)}
+								/>
+							</li>{/each}
+					</ul>
+				</div>
+			{:else if event.type === 'DISTRIBUTION'}
+				<div class="event distribution">
+					<p>
+						<TypingAnimation text="A player chose {event.item}" interval={animationSpeed / 2} />
+					</p>
+				</div>
+			{/if}
 		{/each}
 	</div>
 </div>

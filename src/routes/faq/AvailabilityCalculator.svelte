@@ -45,16 +45,20 @@
 </p>
 <p>How many copies of it will be available, and over what time period?</p>
 <table>
-	<tr>
-		<th>Month</th>
-		<th>Qty.</th>
-	</tr>
-	{#each months as available, index (index)}
+	<thead>
 		<tr>
-			<td class="month">{index + 1}</td>
-			<td>{available}</td>
+			<th>Month</th>
+			<th>Qty.</th>
 		</tr>
-	{/each}
+	</thead>
+	<tbody>
+		{#each months as available, index (index)}
+			<tr>
+				<td class="month">{index + 1}</td>
+				<td>{available}</td>
+			</tr>
+		{/each}
+	</tbody>
 </table>
 
 <style>
