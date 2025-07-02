@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { onMount, onDestroy } from 'svelte';
-	import { tick } from 'svelte/internal';
+	import { tick } from 'svelte';
 
 	export let text: string;
 	export let interval = 1000;
