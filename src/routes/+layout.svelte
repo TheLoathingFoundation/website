@@ -1,3 +1,7 @@
+<script>
+	import { resolve } from '$app/paths';
+</script>
+
 <svelte:head>
 	<link rel="stylesheet" href="/main.css" />
 	<meta
@@ -14,7 +18,7 @@
 
 <div id="header">
 	<div id="logo">
-		<a href="/"><img src="/images/logo.png" alt="The Loathing Foundation" /></a>
+		<a href={resolve('/')}><img src="/images/logo.png" alt="The Loathing Foundation" /></a>
 	</div>
 </div>
 

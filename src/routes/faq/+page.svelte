@@ -1,4 +1,5 @@
 <script>
+	import { resolve } from '$app/paths';
 	import AvailabilityCalculator from './AvailabilityCalculator.svelte';
 	import MintingCalculator from './MintingCalculator.svelte';
 	import SustainabilityCalculator from './SustainabilityCalculator.svelte';
@@ -13,7 +14,7 @@
 
 <h1>Frequently Asked Questions</h1>
 <h2 id="whatIsThis"><a href="#whatIsThis">What is The Loathing Foundation?</a></h2>
-<p>Great question, in fact we have a whole <a href="/">page to answer it!</a></p>
+<p>Great question, in fact we have a whole <a href={resolve('/')}>page to answer it!</a></p>
 
 <h2 id="isItABank"><a href="#isItABank">Is this a Bank?</a></h2>
 <p>
