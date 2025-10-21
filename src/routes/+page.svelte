@@ -1,3 +1,7 @@
+<script>
+	import { resolve } from '$app/paths';
+</script>
+
 <svelte:head>
 	<title>The Loathing Foundation</title>
 	<meta property="og:title" content="The Loathing Foundation" />
@@ -48,7 +52,7 @@
 	>, and all proceeds from trades are used to buy more IOTMs for future players. Trades are
 	performed via the KoL trade interface.
 </p>
-<p>You can learn more about how it works in <a href="faq">the FAQ</a>.</p>
+<p>You can learn more about how it works in <a href={resolve('/faq')}>the FAQ</a>.</p>
 
 <h2>What's the catch?</h2>
 <p>If you obtain an item through The Loathing Foundation <em>you must use it</em>.</p>
@@ -71,7 +75,7 @@
 </p>
 
 <h2>I have another question.</h2>
-<p>Well that's perfect because we have <a href="/faq">an FAQ</a>.</p>
+<p>Well that's perfect because we have <a href={resolve('/faq')}>an FAQ</a>.</p>
 
 <style>
 	#mission {
