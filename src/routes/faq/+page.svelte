@@ -113,8 +113,8 @@
 </p>
 <p>
 	Players will have 7 days from the announcement to <em>respond with a ranked list</em> of any available
-	items they would like to be able to purchase at a discount. Any player who replies will be entered
-	into that month's drawing pool.
+	items they would like to be able to purchase at a discount. Any player who replies will be entered into
+	that month's drawing pool.
 </p>
 <p><b><em>Do not indicate interest for items that you already own.</em></b></p>
 <p><b><em>Do not indicate interest for items that you don't actually want.</em></b></p>
@@ -163,8 +163,8 @@
 </h2>
 <p>
 	We have a <span class="code">Minting Pool</span> which is a pile of Mr. Accessories that we've
-	obtained either through trades of donations. Every month we mint <em>a minimum of 5 copies</em> of
-	the new Item of the Month. If the minting pool is large enough we will buy more than 5.
+	obtained either through trades of donations. Every month we mint <em>a minimum of 5 copies</em> of the
+	new Item of the Month. If the minting pool is large enough we will buy more than 5.
 </p>
 <p>The formula is: <span class="code">max(5, ceil(SizeOfMintingPool / 6)</span></p>
 <p>Here's an interactive to help explain.</p>
@@ -270,8 +270,8 @@
 <p>
 	<em
 		>We have been asked by the in game chat mods to NOT talk about The Loathing Foundation in chat.</em
-	> We're told it isn't a judgment about this project, but that they have a blanket rule about these
-	types of out-of-game efforts.
+	> We're told it isn't a judgment about this project, but that they have a blanket rule about these types
+	of out-of-game efforts.
 </p>
 <p>
 	Please feel free to tell your clan about it, and any other communities you're a part of (so long

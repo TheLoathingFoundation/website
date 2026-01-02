@@ -18,8 +18,8 @@
 	Item of the Month from Mr. Store.
 </p>
 <p>
-	There would also be <em>{leftOver} {availableItems === 1 ? 'Uncle Buck' : 'Uncle Bucks'}</em> left
-	over to be added to the minting pool for future months.
+	There would also be <em>{leftOver} {availableItems === 1 ? 'Uncle Buck' : 'Uncle Bucks'}</em> left over
+	to be added to the minting pool for future months.
 </p>
 
 <style>
