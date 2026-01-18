@@ -10,10 +10,8 @@
 
 <div id="mission">
 	The Loathing Foundation provides <em>affordable access</em> to items sold in
-	<a
-		href="https://wiki.kingdomofloathing.com/Mr._Store"
-		target="_blank"
-		rel="noreferrer">Mr. Store</a
+	<a href="https://wiki.kingdomofloathing.com/Mr._Store" target="_blank" rel="noreferrer"
+		>Mr. Store</a
 	>
 	for players who want to <em>actually use them</em>.
 </div>
