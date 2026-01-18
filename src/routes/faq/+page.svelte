@@ -32,7 +32,7 @@
 </h2>
 <p>
 	When a <a
-		href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions"
+		href="https://wiki.kingdomofloathing.com/Standard_restrictions"
 		target="_blank"
 		rel="noreferrer">standard item</a
 	>'s mall price has reached at least <em>2x the price of a Mr. Accessory</em> for a month or more, it
@@ -60,7 +60,7 @@
 </h2>
 <p>
 	Legacy items (those that are no longer in <a
-		href="https://kol.coldfront.net/thekolwiki/index.php/Standard_restrictions"
+		href="https://wiki.kingdomofloathing.com/Standard_restrictions"
 		target="_blank"
 		rel="noreferrer">standard</a
 	>) that are worth over 2x a Mr. A are made available in a more controlled way. This is because we
