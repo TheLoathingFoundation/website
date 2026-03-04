@@ -230,8 +230,9 @@
 
 	const animationSpeed = 2000;
 	const animationSpacing = 500;
-	const newPoolSize = 3;
-	const newVaultSize = 11;
+	const newPoolSize = 12;
+	const distributionsPerMonth = 4;
+	const newVaultSize = 44;
 	let eventIndex = 0;
 
 	let events: Event[] = [];
@@ -301,15 +302,22 @@
 			month: currentMonth
 		});
 
-		const distributedItem = getRandomItem(currentRafflePool, true) ?? '';
-		currentTimeout = setTimeout(() => {
-			addEvent({
-				type: 'DISTRIBUTION',
-				item: distributedItem,
-				month: currentMonth
-			});
-			currentTimeout = setTimeout(runSimulation, animationSpeed / 2 + animationSpacing);
-		}, animationSpeed + animationSpacing);
+		let delay = animationSpeed + animationSpacing;
+		for (let i = 0; i < distributionsPerMonth; i++) {
+			const distributedItem = getRandomItem(currentRafflePool, true);
+			if (distributedItem === undefined) break;
+			const capturedItem = distributedItem;
+			const capturedDelay = delay;
+			currentTimeout = setTimeout(() => {
+				addEvent({
+					type: 'DISTRIBUTION',
+					item: capturedItem,
+					month: currentMonth
+				});
+			}, capturedDelay);
+			delay += animationSpeed / 2 + animationSpacing;
+		}
+		currentTimeout = setTimeout(runSimulation, delay);
 	}
 
 	function addEvent(event: Event) {
