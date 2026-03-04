@@ -67,9 +67,9 @@
 	have fewer copies of them and they arrive in unpredictable quantities / through donations:
 </p>
 <ul>
-	<li><em>Legacy items are made available in batches of 3 (three)*</em>.</li>
+	<li><em>Legacy items are made available in batches of 12 (twelve)*</em>.</li>
 	<li>Batches are distributed over several months.</li>
-	<li><em>Only 1 (one)* legacy item will be distributed each month</em>.</li>
+	<li><em>Up to 4 (four)* legacy items will be distributed each month</em>.</li>
 	<li><em>You cannot obtain more than one legacy item from the same pool</em>.</li>
 </ul>
 
