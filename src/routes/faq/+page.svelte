@@ -139,6 +139,11 @@
 	</li>
 	<li>You use your item, <em>send an updated inventory snapshot</em>, and have fun!</li>
 </ol>
+<p>
+	If you'd prefer, you can also simply send <em>1 Mr. A and 3 Uncle Bucks</em> (or 13 Uncle Bucks)
+	directly to <b>TheLoathingFoundation (#3580284)</b> instead of waiting for a trade request to be coordinated.
+	TheLoathingFoundation will then send the item you won directly.
+</p>
 
 <h2 id="cantAfford">
 	<a href="#cantAfford">What if I'm picked and can't afford to make a trade?</a>
@@ -259,11 +264,18 @@
 	does not accept or deal with meat in any form.
 </p>
 
-<h2 id="multis"><a href="#multis">Can I donate or participate using a multi account?</a></h2>
+<h2 id="multis"><a href="#multis">Can I participate using a multi account?</a></h2>
 <p>
-	<em><b><u>No.</u></b> Do not interact with The Loathing Foundation from a multi account</em>! It
-	goes against our mission, but more importantly there are lots of rules around multi accounts out
-	there. We don't want you to put your accounts at risk of being in trouble.
+	<em><b><u>No.</u></b> Do not participate in The Loathing Foundation from a multi account</em>.
+	There are lots of rules around multi accounts out there, and we don't want you to put your
+	accounts at risk of being in trouble.
+</p>
+
+<h2 id="multiDonations">
+	<a href="#multiDonations">Can I donate from a multi account?</a>
+</h2>
+<p>
+	Maybe! Please reach out to <b>slifty (#17040367)</b> directly to talk through your situation.
 </p>
 
 <h2 id="advertising"><a href="#advertising">I want to spread the word, any guidelines?</a></h2>
