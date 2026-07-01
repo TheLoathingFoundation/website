@@ -24,7 +24,7 @@
 	const iotm = iotmExamples[Math.floor(Math.random() * iotmExamples.length)];
 	const getMonths = (count: number) => {
 		const months: number[] = [];
-		for (let x = count; x > 0; ) {
+		for (let x = count; x > 0;) {
 			const availableThisMonth = Math.ceil(x / 12);
 			x = x - availableThisMonth;
 			months.push(availableThisMonth);
