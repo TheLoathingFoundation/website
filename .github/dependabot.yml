@@ -10,6 +10,11 @@ updates:
       everything:
         patterns:
           - '*'
+    ignore:
+      # typescript-eslint lags TypeScript majors; unpin once it supports the
+      # next major. See https://github.com/typescript-eslint/typescript-eslint/issues/10940
+      - dependency-name: 'typescript'
+        update-types: ['version-update:semver-major']
   - package-ecosystem: 'github-actions'
     directory: '.github/workflows'
     schedule:
